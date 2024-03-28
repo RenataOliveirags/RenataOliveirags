@@ -19,9 +19,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-001f3f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renatabogs@gmail.com.)
 [![E-mail](https://img.shields.io/badge/-Email-ADD8E6?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:renata.b.oliviera@hotmail.com.br)
 
+### Principais Repositórios
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RenataOliveirags&theme=catppuccin_latte_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RenataOliveirags&theme=dracula&repo=projetos-analise-dados)](https://github.com/RenataOliveirags/meus-projetos)
 
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=RenataOliveirags&theme=dracula&hide=contribs&show_icons=true&rank_icon=github" alt="RenataOliveirags" height="165" width="420"/>
 
 ## Hello! I'm Renata Oliveira ✌️ (EN/US)
 
