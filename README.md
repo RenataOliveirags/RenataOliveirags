@@ -19,7 +19,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-001f3f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renatabogs@gmail.com.)
 [![E-mail](https://img.shields.io/badge/-Email-ADD8E6?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:renata.b.oliviera@hotmail.com.br)
 
-#### Principais Repositórios/Main Repositories
+#### Principais Repositórios | Main Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RenataOliveirags&theme=holi&repo=meus-projetos)](https://github.com/RenataOliveirags/meus-projetos)
 
