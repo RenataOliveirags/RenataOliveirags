@@ -23,11 +23,13 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RenataOliveirags&theme=holi&repo=meus-projetos)](https://github.com/RenataOliveirags/meus-projetos)
 
-
 #### GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=RenataOliveirags&theme=holi&hide=contribs&show_icons=true&rank_icon=github" alt="RenataOliveirags" height="165" width="420"/>
 
+### Certificados
+
+[!Certificado Profissional de Análise de Dados do Google](https://www.credly.com/badges/7122c545-f1b2-4191-b76b-c7ad82c3dae4)
 
 ## Hello! I'm Renata Oliveira ✌️ (EN/US)
 
